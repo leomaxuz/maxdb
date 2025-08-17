@@ -1,0 +1,1 @@
+/mnt/c/Disc/Project/MAXDB2/server/target/release/leomaxuz_maxdb_server: /mnt/c/Disc/Project/MAXDB2/server/src/auth.rs /mnt/c/Disc/Project/MAXDB2/server/src/main.rs /mnt/c/Disc/Project/MAXDB2/server/src/protocol.rs /mnt/c/Disc/Project/MAXDB2/server/src/storage.rs
